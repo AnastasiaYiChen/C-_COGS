@@ -1,0 +1,60 @@
+%{
+#include <cstring>
+%}
+struct cdata {
+	char *name;
+	int population;
+	double area;
+};
+%%
+Albania, 3020209,  28748 
+Andorra, 85458, 468
+Armenia, 3060631, 29743
+Austria, 8223062, 83871 
+Azerbaijan, 9686210, 86600
+Belarus, 9608058, 207600 
+Belgium, 10449361, 30528
+Bosnia and Herzegovina, 3871643, 51197
+Bulgaria, 6924716, 110879
+Croatia, 4470534, 56594
+Cyprus, 1172458, 9251 
+Czech Republic, 10627448, 78867
+Denmark, 5569077, 43094
+Estonia, 1257921, 45228 
+Finland, 5268799, 338145
+France, 66259012, 643427
+Georgia, 4935880, 69700
+Germany, 80996685, 357022
+Greece, 10775557, 131957
+Hungary, 9919128, 93028
+Iceland, 317351, 103000 
+Ireland, 4832765, 70273
+Italy, 61680122, 301340
+Kazakhstan, 17948816, 2724900
+Kosovo, 1836529, 10887
+Latvia, 2165165, 64589 
+Liechtenstein, 37313, 160
+Lithuania, 3505738, 65300
+Luxembourg, 520672, 2586
+Macedonia, 2091719, 25713
+Malta, 412655, 316
+Moldova, 3583288, 33851
+Monaco, 30508, 2
+Montenegro, 650036, 13812
+Netherlands, 16877351, 41543 
+Norway, 5147792, 323802
+Poland, 38346279, 312685
+Portugal, 10813834, 92090
+Romania, 21729871, 238391
+Russia, 142470272, 17098242
+SanMarino, 32742, 61
+Serbia, 7209764, 88361
+Slovakia, 5443583, 49035
+Slovenia, 1988292, 20273
+Spain, 47737941, 505370
+Sweden, 9723809, 450295
+Switzerland, 8061516, 41277
+Turkey, 76667864, 783562
+Ukraine, 44291413, 603550
+United Kingdom, 63742977, 243610
+Vatican City, 842, 0.44

@@ -1,0 +1,3 @@
+C:/ns/w0443276/PROG2100/A3_afterPWP/cmake-build-debug/CMakeFiles/M09_AliceChess.dir
+C:/ns/w0443276/PROG2100/A3_afterPWP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ns/w0443276/PROG2100/A3_afterPWP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
